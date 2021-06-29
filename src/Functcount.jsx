@@ -13,7 +13,7 @@ const Functcount = () => {
 
   return (
     <div className="functcount">
-      <h1>FUNCTIONAL COMPONENT</h1>
+      <h1>FUNCTION COUNTER</h1>
 
       <h2>{count}</h2>
 

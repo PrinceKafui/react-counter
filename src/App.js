@@ -4,15 +4,12 @@ import Functcount from "./Functcount";
 import "./App.css";
 
 function App() {
-    return ( <
-        >
-        <
-        Classcount / >
-        <
-        Functcount / >
-        <
-        />
-    );
+  return (
+    <>
+      <Classcount />
+      <Functcount />
+    </>
+  );
 }
 
 export default App;

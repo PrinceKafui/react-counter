@@ -20,7 +20,7 @@ class Classcount extends Component {
   render() {
     return (
       <div className="classcount">
-        <h1>CLASS COMPONENT</h1>
+        <h1>CLASS COUNTER</h1>
 
         <h2>{this.state.count}</h2>
 
