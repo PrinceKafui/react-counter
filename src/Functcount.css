@@ -1,0 +1,31 @@
+.functcount {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    margin: 10rem auto;
+    width: 50%;
+    background-color: grey;
+}
+
+.functcount button {
+    font-size: 1rem;
+    margin: 2rem;
+    border-radius: 5px;
+    padding: 1rem;
+    background-color: lightblue;
+}
+
+.functcount button:hover {
+    color: red;
+}
+
+.functcount h1 {
+    position: absolute;
+    top: 300px;
+    color: palevioletred;
+}
+
+.functcount h2 {
+    font-size: 2rem;
+    color: blue;
+}
